@@ -48,4 +48,13 @@ This script can convert a Background into a normal layer, detect which layers ar
 
 ## Example
 When running on a file with locked groups and layers:
+Unlocking… 0 / 23
+Unlocking… 12 / 23
+Unlocking… 23 / 23
+Done!
+
+---
+
+## License
+Free to use, modify, and share. Attribution appreciated.
 
